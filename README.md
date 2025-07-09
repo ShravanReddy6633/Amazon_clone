@@ -1,1 +1,5 @@
-# Amazon_clone
+# first-rep
+This is my First Repository.
+<br>
+Author - Shravan Reddy
+# Amazon-clone
